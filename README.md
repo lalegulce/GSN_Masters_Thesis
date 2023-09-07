@@ -5,6 +5,5 @@ The codes are an implementation of my master's thesis project that I conducted a
 ## Site Harmonization: 
 Analyses to correct region of interests for site effects that might be caused by the multi-site data.
 
-## Hydra Model Subtyping:
-Code for assigning subtypes after the model application
+
 
